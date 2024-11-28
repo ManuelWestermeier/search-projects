@@ -21,6 +21,3 @@ scanning ./folder3/ ...
 	/path/to/current-directory/folder1/target-folder
 <br>
 	/path/to/current-directory/folder2/target-folder-2
-
-<iframe src="https://manuelwestermeier.github.io/">
-</iframe>
